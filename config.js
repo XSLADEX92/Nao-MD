@@ -194,9 +194,9 @@ global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://opena
 global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.uptime = 'u1931038-1f70a77eef5964be82e7d606' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
-global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://xzn.wtf/
-global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
-global.ryzen = 'YOUR_APIKEY_HERE' //daftar di api.ryzendesu.com/
+global.owner = 'a080fd0b137b477c6f31ba9f46ce4c0b3a699e1c' //daftar sendiri jika key habis https://xzn.wtf/
+global.5ive = 'a080fd0b137b477c6f31ba9f46ce4c0b3a699e1c' //https://api.xyroinee.xyz/
+global.ray-j = 'a080fd0b137b477c6f31ba9f46ce4c0b3a699e1c' //daftar di api.ryzendesu.com/
 
 global.APIs = {
   // name: 'https://website'
@@ -205,8 +205,8 @@ global.APIs = {
   males : 'https://api.lolhuman.xyz' //web api terserah ganti apa aja (buat welcome sama leave gc)
 }
 
-global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+global.APIKeys = { // a080fd0b137b477c6f31ba9f46ce4c0b3a699e1c
+  // 'https://website': 'a080fd0b137b477c6f31ba9f46ce4c0b3a699e1c'
   'https://api.lolhuman.xyz': 'SGWN',
   'https://violetics.pw': 'beta',
 }
