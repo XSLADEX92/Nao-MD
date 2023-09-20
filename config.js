@@ -32,18 +32,18 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['18768052962', '5ive', true]]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorown = '18768052962'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
 global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
+global.namebot = 'veracity-Botz V5'
 global.wm = '© NaoBotz By ShirokamiRyzen'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -54,8 +54,8 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= '5ive'
+global.nameown2 = 'Ray-j'
 /*============= MEDIA LINK =============*/
 global.Linkgc = 'Bentar'
 global.lynk = ''
